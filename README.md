@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoyler</h1>
-<h3 align="center">A passionate JavaScript, React y React Native developer from Colombia</h3>
+<h3 align="center">A passionate JavaScript, React y React Native developer from Colombia <br>
+I like to make applications that help people
+</h3>
 
 - 📫 How to reach me **yoilerlp595@gmail.com**
 
